@@ -1,5 +1,9 @@
 
-# react-file-viewer
+# hf-react-file-viewer
+
+Clone from https://www.npmjs.com/package/react-file-viewer and fix style files paths in jsx files.
+
+--------------------------------------------------------------------------------------------------
 
 Extendable file viewer for web
 
