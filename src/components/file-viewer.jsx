@@ -97,4 +97,10 @@ FileViewer.defaultProps = {
 };
 
 export default FileViewer;
-module.exports = FileViewer;
+
+// module.exports = FileViewer;
+
+// Support CommonJS export
+if (module && module.exports) {
+  module.exports = FileViewer;
+}

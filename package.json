@@ -1,9 +1,9 @@
 {
   "name": "hf-react-file-viewer",
-  "version": "1.2.5",
+  "version": "1.2.6",
   "description": "Extendable file viewer for web",
-  "main": "dist/index.js",
-  "module": "dist/index.js",
+  "main": "src/components/index.js",
+  "module": "src/components/index.js",
   "engines": {
     "node": "^14.17.6",
     "npm": "^8.19.2"
